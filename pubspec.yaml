@@ -1,0 +1,73 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+  flutter_svg: ^2.0.10+1
+  vector_math: ^2.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/image_216.png
+    - assets/images/image_193.png
+    - assets/images/sd_1.png
+    - assets/images/image_541.png
+    - assets/images/image_54.png
+    - assets/images/image_53.png
+    - assets/vectors/vector_x2.svg
+    - assets/vectors/cellular_connection_x2.svg
+    - assets/vectors/battery_2_x2.svg
+    - assets/vectors/vector_10_x2.svg
+    - assets/vectors/rectangle_26873_x2.svg
+    - assets/vectors/group_70731_x2.svg
+    - assets/vectors/vector_8_x2.svg
+    - assets/vectors/vector_4_x2.svg
+    - assets/vectors/rectangle_2687_x2.svg
+    - assets/vectors/home_indicator_1_x2.svg
+    - assets/vectors/rectangle_26871_x2.svg
+    - assets/vectors/wifi_2_x2.svg
+    - assets/vectors/vector_3_x2.svg
+    - assets/vectors/vector_9_x2.svg
+    - assets/vectors/vector_6_x2.svg
+    - assets/vectors/group_7073_x2.svg
+    - assets/vectors/rectangle_26875_x2.svg
+    - assets/vectors/layer_32_x2.svg
+    - assets/vectors/vector_7_x2.svg
+    - assets/vectors/rectangle_26874_x2.svg
+    - assets/vectors/cellular_connection_1_x2.svg
+    - assets/vectors/rectangle_26872_x2.svg
+    - assets/vectors/vector_5_x2.svg
+    - assets/vectors/vector_1_x2.svg
+    - assets/vectors/home_indicator_x2.svg
+    - assets/vectors/battery_1_x2.svg
+    - assets/vectors/wifi_1_x2.svg
+    - assets/images/untitled_13.png
+    - assets/vectors/vector_2_x2.svg
+    - assets/vectors/ellipse_12591_x2.svg
+    - assets/vectors/group_1_x2.svg
+    - assets/vectors/fast_message_x2.svg
+    - assets/vectors/icon_material_arrow_back_x2.svg
+    - assets/vectors/fi_245305_x2.svg
+    - assets/vectors/vector_11_x2.svg
+    - assets/vectors/group_1171275256_x2.svg
+    - assets/vectors/icon_awesome_play_x2.svg
+    - assets/vectors/group_x2.svg
+    - assets/vectors/cellular_connection_2_x2.svg
+    - assets/vectors/battery_x2.svg
+    - assets/vectors/ellipse_1259_x2.svg
+    - assets/vectors/wifi_x2.svg
